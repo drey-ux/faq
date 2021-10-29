@@ -8,25 +8,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-/* Global styles
-html{
-    font-size: 10px;
-}
-
-body{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.6rem;
-}
-
-/* Reusable styles */
-/* .container{
-    width: 100%;
-    max-width: 120rem;
-    padding: 0 1.5rem;
-    margin: 0 auto;
-}  */
-
 .py-60 {
   padding: 60px 0;
 }
